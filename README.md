@@ -1,4 +1,5 @@
 # Notepad-with-python
 Notepad for desktop
-[![](http://img.youtube.com/vi/682cObOlYYc/0.jpg)](https://www.youtube.com/watch?v=mumisXqsZBU&t=18s "Click to View")
+[![Notepad](http://img.youtube.com/vi/mumisXqsZBU/0.jpg)](http://www.youtube.com/watch?v=mumisXqsZBU "Notepad")<br>
 Click the photo
+
